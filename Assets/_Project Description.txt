@@ -1,0 +1,48 @@
+Project Description:
+	In our Project Description we will layout a very basic concept for the
+	game we are to make.  As we advance in game types and scope of production
+	we will also advance in the documentation of these projects to more fully
+	realize the project at the beginning of development.
+	One step at a time.
+
+Learning Objectives:
+	Introduciton to assets creation
+	Introduction to game scripting
+	Introduction to GUI elements
+	Introduction to Input
+	Introduction to Events
+	Introduction to Scene Loading
+
+Production Time:
+	Setup	15 minutes
+	Assets	60 minutes
+	Player	30 minutes
+	Enemy	25 Minutes
+	Menus	40 Minutes
+	GUI		45 minutes
+	Build	20 minutes
+	Review	10 minutes
+
+High Concept:
+	A high speed mouse clicking game. Using the mouse, click on 
+	and destroy as many shapes as you can to earn points and 
+	a high score.
+	
+	Hopefully, make the game better than that, too.
+
+Controls:
+	Use the left mouse button to select on shapes and destroy them.
+
+Mockup Assets:
+	Targets
+	Explosion
+	
+	
+Potential Ideas:
+	Music based game where key inputs are strengthened 
+	if pressed in time with certain beats/weakened when pressed off beat.
+	
+	"Laser Beam" could grow and shrink with the bass.
+	Additional power-ups could enable channels, ie high hat.
+	player could fly up a music bar
+	think Guitar Hero but as a top down shooter, and with dubstep (ie heavy drop = hold space)

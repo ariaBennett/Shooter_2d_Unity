@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scriptActorEnemy.js">
+    <Files>
+      <File FileName="Assets\Scripts\scriptActorEnemy.js" Line="28" Column="42" />
+      <File FileName="Assets\Scripts\scriptActorPlayer.js" Line="34" Column="1" />
+      <File FileName="Assets\Scripts\scriptCameraMain.js" Line="16" Column="61" />
+      <File FileName="Assets\Scripts\scriptParticleDestruction.js" Line="15" Column="20" />
+      <File FileName="Assets\Scripts\scriptScreenWin.js" Line="14" Column="31" />
+      <File FileName="Assets\Scripts\scriptScreenMainMenu.js" Line="6" Column="39" />
+      <File FileName="Assets\Scripts\scriptScreenLose.js" Line="9" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
